@@ -82,4 +82,9 @@
     justify-items: center;
     text-decoration: none;
     padding: 10px 20px;
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+    background: #f77062;
+    color: #fff;
 }
