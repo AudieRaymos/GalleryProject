@@ -112,5 +112,10 @@
         padding: 0;
     }
 
-    
+    .navbar__menu {
+        display: grid;
+        grid-template-columns: auto;
+        margin: 0;
+        width: 100%;
+    }
 }
