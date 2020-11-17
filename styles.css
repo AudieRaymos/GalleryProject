@@ -42,7 +42,7 @@
     text-decoration: none;
     font-size: 2rem;
 }
-
+/*navbar buttons*/
 .fa-gem{
     margin-right: 0.5rem;
 }
@@ -52,4 +52,13 @@
     align-items: center;
     list-style: none;
     text-align: center;
+}
+
+.navbar__item {
+    height: 80px;
+}
+
+.navbar__links {
+    color: #fff;
+    display: flex;
 }
