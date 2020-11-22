@@ -202,7 +202,7 @@
     background-color: #141414;
 }
 
-.main_container {
+.main__container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
@@ -214,4 +214,9 @@
     width: 100%;
     max-width: 1300px;
     padding: 0 50px;
+}
+
+.main__content h1 {
+    font-size: 4rem;
+    
 }
