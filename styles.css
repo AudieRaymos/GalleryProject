@@ -218,5 +218,7 @@
 
 .main__content h1 {
     font-size: 4rem;
-    
+    background-color: #ff8177;
+    background-image: linear-gradient(to top, #ff0844 0% , #ffb119 100%);
+    background-size: 100%;
 }
