@@ -281,3 +281,8 @@
 .main__btn:hover {
     color: white;
 }
+
+.main__btn:hover:after {
+    width: 100%;
+}
+
