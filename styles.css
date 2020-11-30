@@ -383,3 +383,11 @@
     justify-self: center;
     flex-wrap: wrap;
 }
+
+.services__card {
+    margin: 1rem;
+    height: 525px;
+    width: 400px;
+    border-radius: 4px;
+    background-image: linear-gradient();
+}
