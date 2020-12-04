@@ -475,3 +475,9 @@
     justify-content: center;
     align-items: center;
 }
+#footer__logo {
+    color: white;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
