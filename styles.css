@@ -560,3 +560,13 @@ font-size: 24px;
     align-items: center;
     margin-bottom: 16px;
 }
+
+@media screen and (max-width: 820px) {
+    .footer__links {
+        padding-top: 2rem;
+    }
+
+    #footer__logo {
+        margin-bottom: 2rem;
+    }
+}
