@@ -569,4 +569,8 @@ font-size: 24px;
     #footer__logo {
         margin-bottom: 2rem;
     }
+
+    .footer__link--wrapper {
+        flex-direction: column;
+    }
 }
