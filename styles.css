@@ -3,7 +3,7 @@ html {
   }
   
   body {
-    background: linear-gradient(green, white);
+    background: linear-gradient(#135c62, white);
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
@@ -180,7 +180,7 @@ html {
   }
   
   p {
-    color: green;
+    color: forestgreen;
   }
   
   img {
