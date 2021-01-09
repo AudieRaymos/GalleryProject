@@ -111,7 +111,7 @@ html {
   
   /* INDEX MAIN IMAGE */
   .main-img {
-    width: 650px;
+    width: 50px;
     display: flex;
     flex-direction: column;
     padding: 10px;
