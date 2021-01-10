@@ -21,7 +21,15 @@ html {
   
   h1 {
     text-align: center;
-    color: rgb(210, 255, 214);
+    color: white;
+  }
+
+  h2 {
+      color: white;
+  }
+
+  h3 {
+      color: white;
   }
   
   /* NAVIGATION */
@@ -197,7 +205,7 @@ html {
   }
   
   p {
-    color: forestgreen;
+    color: whitesmoke
   }
   
   img {
@@ -208,7 +216,3 @@ html {
     text-decoration: none;
   }
   
-  .youtube-song-button {
-    align-self: center;
-    width: 100px;
-  }
