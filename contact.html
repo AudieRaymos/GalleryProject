@@ -24,6 +24,22 @@
         </div>
         <a href="contact.html">Contact Me</a>
       </nav>
-      
+      <!--Contact form-->
+      <form action="https://us-central1-nucamp-production.cloudfunctions.net/post/formdata" method="POST">
+        <fieldset>
+            <legend>Your Information</legend>
+            <div>
+                <label for="firstName">First Name: </label> 
+                    <input type="text" id="firstName" name="firstname" placeholder="Your First Name"/>
+            </div> 
+            <div>
+                <label for="lastName">Last Name: </label>
+                    <input type="text" id="lastName" name="lastname" placeholder="Your Last Name"/>
+            </div>
+            <div>
+                <label for="email">Your Email</label> 
+                <input type="email" id="email" name="email" placeholder="Your Email Address" />
+            </div>
+        </fieldset>
 </body>
 </html>
