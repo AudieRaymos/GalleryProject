@@ -154,6 +154,7 @@ html {
     flex-direction: row;
     margin: 10px;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
   }
   
